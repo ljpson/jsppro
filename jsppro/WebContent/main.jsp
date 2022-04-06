@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-처음 작성하는 JSP
-
-처음 작성하는 JSP (user1브랜치)
+Brench 테스트 중입니다.
 </body>
 </html>
